@@ -36,9 +36,9 @@
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\PiFacceCAD\PiFacceCAD.csproj">
+    <ProjectReference Include="..\PiFacceCAD\PiFaceCAD.csproj">
       <Project>{4050A45B-A934-4179-8C05-F41445895D64}</Project>
-      <Name>PiFacceCAD</Name>
+      <Name>PiFaceCAD</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

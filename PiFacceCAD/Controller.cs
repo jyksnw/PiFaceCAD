@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Timers;
 
-namespace PiFacceCAD
+namespace PiFaceCAD
 {
 	public class Controller
 	{

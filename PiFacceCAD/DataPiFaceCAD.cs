@@ -1,4 +1,4 @@
-﻿namespace PiFacceCAD
+﻿namespace PiFaceCAD
 {
 	internal static class DataPiFaceCAD
 	{

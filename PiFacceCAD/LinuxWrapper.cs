@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace PiFacceCAD
+namespace PiFaceCAD
 {
 	internal static class LinuxWrapper
 	{

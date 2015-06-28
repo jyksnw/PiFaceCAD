@@ -1,4 +1,4 @@
-﻿namespace PiFacceCAD
+﻿namespace PiFaceCAD
 {
 	public enum PowerState
 	{

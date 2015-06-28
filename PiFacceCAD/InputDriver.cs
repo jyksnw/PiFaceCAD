@@ -2,7 +2,7 @@
 using System.Timers;
 using System.Collections.Generic;
 
-namespace PiFacceCAD
+namespace PiFaceCAD
 {
 	public class InputDriver : IDisposable
 	{

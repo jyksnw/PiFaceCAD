@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PiFacceCAD
+namespace PiFaceCAD
 {
 	public class PiFace
 	{

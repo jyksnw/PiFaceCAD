@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiFacceCAD", "PiFacceCAD\PiFacceCAD.csproj", "{4050A45B-A934-4179-8C05-F41445895D64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiFaceCAD", "PiFacceCAD\PiFaceCAD.csproj", "{4050A45B-A934-4179-8C05-F41445895D64}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiFaceCAD.Test", "PiFaceCAD.Test\PiFaceCAD.Test.csproj", "{BF0982F2-A012-40D2-BF9C-03EA499A5809}"
 EndProject
