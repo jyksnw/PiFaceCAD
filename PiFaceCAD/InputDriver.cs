@@ -98,7 +98,7 @@ namespace PiFaceCAD
 			uint buttonOffset = 0;
 
 			for (int i = 0; i < buttonCombo.Length; i++) {
-				buttonOffset += (uint)Math.Pow (2, buttonCombo [0]);
+				buttonOffset += (uint)Math.Pow (2, buttonCombo [i]);
 			}
 
 			var buttonAddress = (uint)(DEFAULT_BUTTON_STATE - buttonOffset - 1);
